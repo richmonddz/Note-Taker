@@ -40,14 +40,14 @@ in your terminal.
 http://localhost:3001
 ```
 
-in your browser.
+in your browser. Or click the Heroku link below!
+
+- https://radiant-badlands-97695.herokuapp.com/
 
 ## Usage
 
-An easy to use note taker app. Simply add and delete small notes and reminders using the power of Express.JS
+An easy to use note taker app. Simply add and delete small notes and reminders using the power of Express.JS.
 
 ## Video-Demo
 
-
 https://user-images.githubusercontent.com/100399374/172772230-4bf61ca8-7f1c-42c4-928b-262be2de253c.mp4
-
