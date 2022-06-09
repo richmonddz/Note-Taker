@@ -37,7 +37,7 @@ in your terminal.
 5. Then open
 
 ```
-
+http://localhost:3001
 ```
 
 in your browser.
